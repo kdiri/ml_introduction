@@ -130,6 +130,6 @@ dmypy.json
 
 venv/*
 .idea/*
-*cache
-*Untitled.ipynb
+cache
+Untitled*.ipynb
 
